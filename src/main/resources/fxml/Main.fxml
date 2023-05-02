@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane layoutX="1024.0" layoutY="768.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="es.lechuguita.facturacion.controller.MainController">
+   <children>
+      <VBox layoutX="-998.0" layoutY="-408.0" prefHeight="508.0" prefWidth="1208.0">
+         <children>
+            <HBox prefHeight="100.0" prefWidth="200.0" />
+            <Label text="Label" />
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>
